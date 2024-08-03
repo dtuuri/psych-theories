@@ -478,3 +478,23 @@
 - **Applications:** Game theory is used in economics, political science, biology, computer science, and many other fields to model and analyze competitive and cooperative behaviors.
 - **Theorists:** John von Neumann and Oskar Morgenstern are considered pioneers of game theory, with John Nash further developing the concept of equilibrium.
 
+**Marxist Inequality** refers to the theory of social and economic disparity based on the ideas of Karl Marx. Key components include:
+
+- **Class Struggle:** Society is divided into classes with conflicting interests, primarily the bourgeoisie (capitalist class) and the proletariat (working class).
+- **Exploitation:** The bourgeoisie exploits the proletariat by paying them less than the value of their labor, generating surplus value (profit) for the capitalists.
+- **Capital Accumulation:** Wealth and resources become concentrated in the hands of the bourgeoisie, increasing inequality.
+- **Alienation:** Workers become alienated from the products of their labor, their own humanity, and other workers due to the capitalist production process.
+
+- **Historical Materialism:** The idea that material conditions and economic factors drive social change and historical development.
+- **Ideology:** The dominant class controls the societal superstructure (e.g., politics, culture, education) to maintain and justify their power and inequality.
+- **Revolution:** Marxists believe that the proletariat will eventually become aware of their exploitation (class consciousness) and overthrow the capitalist system through revolution, leading to a classless, egalitarian society.
+
+- **Examples:**
+  - **Wealth Disparity:** Significant gaps between the rich and poor in capitalist societies.
+  - **Labor Exploitation:** Poor working conditions, low wages, and lack of workers' rights.
+  - **Control of Means of Production:** Ownership of factories, land, and resources by a small elite.
+
+- **Applications:** Marxist theory is used to analyze social structures, economic systems, and power dynamics in various fields such as sociology, economics, and political science.
+- **Theorist:** Karl Marx, a 19th-century philosopher, economist, and revolutionary socialist who co-authored "The Communist Manifesto" and wrote "Das Kapital."
+- **Criticisms:** Critics argue that Marxist theory underestimates the complexity of social relations and overlooks the role of individual agency, among other points.
+
